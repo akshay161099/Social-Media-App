@@ -1,0 +1,1 @@
+mongodb+srv://Akshay:<kineticenergy>@cluster0.3qdr8.mongodb.net/test
